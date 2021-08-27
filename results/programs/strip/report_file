@@ -1,0 +1,8 @@
+0:1:/home/long2/results/sneu-24h/programs/strip/tmp/id:00029585,src:009194,op:grad,step:+6,range:[512:1024]
+1:1:/home/long2/results/sneu-24h/programs/strip/tmp/id:00065835,src:009030,op:grad,step:+46,range:[512:1024]
+0:1:/home/long2/results/sneu-24h/programs/strip/tmp/id:00074483,src:009451,op:grad,step:+24,range:[512:1024]
+0:1:/home/long2/results/sneu-24h/programs/strip/tmp/id:00101490,src:007991,op:grad,step:+1,range:[512:1024]
+0:1:/home/long2/results/sneu-24h/programs/strip/tmp/id:00108887,src:009178,op:grad,step:-3,range:[512:1024]
+0:1:/home/long2/results/sneu-24h/programs/strip/tmp/id:00114541,src:009458,op:grad,step:-47,range:[512:1024]
+0:3:/home/long2/results/sneu-24h/programs/strip/tmp/id:00120377,src:009456,op:grad,step:+18,range:[512:1024]
+0:3:/home/long2/results/sneu-24h/programs/strip/tmp/id:00144076,src:009584,op:grad,step:-2,range:[512:1024]
